@@ -19,6 +19,7 @@
       "type": "sxa",
       "buildCommand": "build",
       "runCommand": "next:start"
+      
     },
     "nextjsstarter": {
       "path": "./examples/kit-nextjs-skate-park",
